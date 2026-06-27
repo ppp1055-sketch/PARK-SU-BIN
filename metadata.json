@@ -1,0 +1,6 @@
+{
+  "name": "AI 실시간 채용 매칭 전문가",
+  "description": "참여자의 프로필(직무, 경력, 학력, 전공, 스킬, 프로젝트)을 분석해, 검색 도구로 직접 조회·검증한 실제 채용공고만을 매칭하고 직무를 진단하는 전문가 리포트 시스템입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
